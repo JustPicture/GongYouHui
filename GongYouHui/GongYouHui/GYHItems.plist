@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>主页</string>
+		<key>className</key>
+		<string>ChatViewController</string>
+		<key>normalImage</key>
+		<string>icon_aid_normal</string>
+		<key>selectedImage</key>
+		<string>icon_aid_press</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>企信</string>
+		<key>className</key>
+		<string>NewsViewController</string>
+		<key>normalImage</key>
+		<string>icon_news_normal</string>
+		<key>selectedImage</key>
+		<string>icon_news_press</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>个人中心</string>
+		<key>className</key>
+		<string>IsafeViewController</string>
+		<key>normalImage</key>
+		<string>icon_chat_normal</string>
+		<key>selectedImage</key>
+		<string>icon_chat_press</string>
+	</dict>
+</array>
+</plist>
